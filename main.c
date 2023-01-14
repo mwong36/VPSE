@@ -84,7 +84,7 @@ int main(int argc, const char * argv[]) {
             break;
     }
     
-    printf("\nWhat are you looking for today? (1 Tops, 2 Bottoms, 3 Loungewear, 4 Casual, 5 Formal, 6 Winter, 7 Summer, 8 Fall, 9 Spring, 10 Activewear)");
+    printf("\nWhat are you looking for today? (1 Tops, 2 Bottoms, 3 Loungewear, 4 Casual, 5 Formal, 6 Winter, 7 Summer/Spring, 8 Fall, 9 Activewear)");
     scanf("%d", &clothingType);
     
     printf("Here are your recommended outfits: ");
